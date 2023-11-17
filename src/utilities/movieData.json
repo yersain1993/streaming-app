@@ -1,0 +1,217 @@
+[
+    {
+    "id": 1,
+    "genre": "Terror",
+    "imageURL" : "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/03/Scream-VI-Hipertextual.jpg?resize=1200%2C800&quality=50&strip=all&ssl=1",
+    "movies" : [
+        {
+            "id": 1,
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+            "name" : "Halloween",
+            "director" : "John Carpenter",
+            "year": "1978",
+            "resume": "Little Michael Myers murders his sister on Halloween night in 1963, for which he is committed to a mental institution. Six years later, Myers escapes from the hospital and returns to his hometown, Haddonfield, Illinois. The psychopath will begin a series of gruesome murders while one of the doctors who treated him at the hospital follows his trail.",
+            "trillerURL" : "https://www.youtube.com/embed/xOv7_K_nb8I"
+        },
+        {   
+            "id": 2,
+            "imgURL": "https://play-lh.googleusercontent.com/rmEKQWvMchIZ9mPehyI3ZPY2Nq2-CkyH_UJ6FrOtg-2xGp-JQE04CDTSfRoj3QHZCfQs=w240-h480-rw",
+            "name" : "The Sixth Sense",
+            "director" : "M. Night Shyamalan",
+            "year": "1999",
+            "resume": "Sometimes I see dead people. And yes, that's all we're going to see in the film that launched M. Night Shyamalan's career. It's what Cole Sear sees and what makes him so terrified, at least until the psychologist played by Bruce Willis helps him get over it. We know it loses a lot once seen and its big secret is known, but it is still a surprising film with a powerful atmosphere.",
+            "trillerURL" : "https://www.youtube.com/embed/3-ZP95NF_Wk"
+        },
+        {   
+            "id": 3,
+            "imgURL": "https://img1.hulu.com/user/v3/artwork/9bf6cf04-5699-4659-bc7b-9bf2aa8305a8?base_image_bucket_name=image_manager&base_image=de2447c0-aaa4-4895-b65d-443a6cc58ed5&size=458x687&format=jpeg",
+            "name" : "The Conjuring",
+            "director" : "James Wan",
+            "year": "2013",
+            "resume": "Based on true events. It narrates the supernatural encounters experienced by the Perron family in their Rhode Island home in the early 1970s. Ed and Lorraine Warren, renowned investigators in the world of paranormal phenomena, respond to the call of a family terrified by the presence of an evil being on their farm.",
+            "trillerURL" : "https://www.youtube.com/embed/k1qmABIsbkU"
+        },
+        {   
+            "id": 4,
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BM2M1MzI1MWYtYmM2ZC00OWY3LTk0ZGMtNmRkNzU1NzEzMWE5XkEyXkFqcGdeQXVyODUwOTkwODk@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+            "name" : "Saw",
+            "director" : "James Wan",
+            "year": "2004",
+            "resume": "Adam and Lawrence wake up chained in a filthy bathroom with a corpse between them. Their kidnapper is a madman known as Jigsaw whose game is to force his captives to hurt themselves or others in order to stay alive.",
+            "trillerURL" : "https://www.youtube.com/embed/3Ts2ymg8Q2w"
+        }
+        ]
+    },
+    {
+    "id": 2,
+    "genre": "Comedy",
+    "imageURL" : "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBEREREPEREREQ8QDxEPDxERERERDw8RGBgZGRgUGBgcIS4lHB4rIRgYJjgmLC8xNTU1GiQ7QDszPy40NTEBDAwMDw8QGBERGDQhGh00MTE0MTQ0NDQxNDQ0NDE0MTE0MTQ0MTQxNDExMTExMTQ0MTQxNDQ0ND80NDQxNDQ0NP/AABEIAPsAyQMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAAAQIGBwQFCAP/xABCEAACAQMCAwUGAwQHCAMAAAABAgADBBEFEiExQQYHE1FhFCJxgZGhMlLBQnKiwhUkJYKSsdEjU2JzdJOy8DNDVP/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAdEQEBAAICAwEAAAAAAAAAAAAAARExAkEhMlFC/9oADAMBAAIRAxEAPwDaxlSJbEgiBWMS2IxAriMSwEnED54k4l8QBApiMT6YjEopiTiWAk7YFMSMT6bZGIFMSQJfEnECmIxL4giBTEYl8ScQPniAs+mJIECgEnEsBLAQICy2IAl8QOLIxLRIK4k4lsScQKYk4lsScQKYkgS2JOIFcSdstiTiFUAlsScRnHE8hxMDjXl3SorvrVKdJPzVHWmv1Yzj2erWtfhRuKFU+VOrTc/QGea+02vVtQuXuarE7mbwkJ9yjTz7qqOnDGfM8Z1dKqVYMOYOQeRB+Mlo9bASQJgHdJ2grXltVpV2NR7VkVXYku1NwSoYnmQVIz5YmwQJZciMSCJcCQRAriSBJxJAgRiMS2JGIEYkiMSQJQEtEmEcaMScRIAjEkSQIEYlsRiIDEASZIEKjEYlsRiBWdVr+sU7OmXq067IVbc1GhUrKgA5uVHuj1M7fExXvJ0iveadVo27BWVlquhJUVkTLFM/HBHqogeaeg+AnYadp3i8dxUfu5J+HGZ7oVC0S9S0q0aKkItMMXBqu+0cSm3A3dBnOCDjjM9o1bWjc+xi1HibA5YGizbT+0V3b/t8MzCZYx3WV6Fg93Sr1UQ1jQaiWK5qYDhlAGTkZH1m21mvux/ZgWusahXFPFJkU0KgUKiGowZ0XqTw6cOM2Hia4qCCJOIlEYkyYxAjESYgREYjEoS0iTA48ScScSIgCSBJEQESREBLREKREQpIZQQQRkEYI6EGTIdgASSAAMkk4AHmTAwTW0sLOqt7c06aNTqpTFXZl8ngrADmQOOeYAM7zR7q0uwb222VA7NTaoFIYlDjiD8B8sTGBrdlq9a4p+49GhVARWJLVkVR/WAvD3Mlh14AE8+GU6NUtfDK2jUTSRsOabA00bAJyRw3YwT8RJNsu5o08ZbjlgMjPDhnp859RMd0ftGlW5uLRmUmm6ig44CqjIG2n/iHHlzBBmRiWKRJiAiIlCIiAkSYgRLSJMD4RJxGJEBEmIAS0rEBLSsQq0jMrNed5Hb9LFHtLV1a+YYcj3ltVI5npv8AIdOZ6Ah8+8PvGewrC0tFo1KypurtU3OtEn8KBVI97HE5PAEcOM0/rPai+vW/rV1UdT/9YbZRA/cXC/bM6mtWZ2ZmYszkszMSWZicliTzJPWfPGZFw7vSbSv4i1aDMKiEuj0xl0dRkcOoPL5zYFtrL1NOWs1YbaNQGrbpR8MXVeqQwzt2jBLElveByT6zEew2rilVQMQAHUMT+0jHb9iR9pGva1TFRqVDIo061WoFB4O7tniOgXkByGJnyy57Xdak2cb2dy9RwdrLUbju+XIY8gOkzTQO3lxRIpXI9opjGKhO2sq+p5Nj14+s1jZeJUbfUJCc1Tjj4nzM59zXIGwficimM8Mg88fLMmkeitNv6dzRS4otvpVF3o2CMj1B5GcvMwLuvvy1KpbMRmmwqIoOSFbgw+oz/emeTcuY0tEgSZQkyJMoSJMQERJkR8YiMQEtKxAREtArIMmdF201g2On3N0mPERAtLIyPEchEJHkCwPylVj3eN259gQ2trh71195sZS2Q8mbzc9B8z0zoG4rs7M7cXZi7MclmYnJYk8yT1l7y6eq7VHd3d2LOztuZmJySTMt7t+xh1OualXctlbspqkAg135iirfdiOIBHmDM7HU2XY+9q2VbURTCWtGmagZyQ1ZQcHYoBJA55OBw5mY8CRPU3aqii6ZeoAqIthcKowAqqKbAAAcgJ5dC8s548h1MVYshyysuQRxbHIAftfCXD5cuxLFizMT5nj9ZzdJY06uP97TemwHLaRkj14A8Zy6GnhixRQzLndTzgkennzmbUyvp9Q5BL7R6rnHl1nB1asy1UBYHaQ4K8myef2M7GxskbJTJxnchA3o3UEeU4+paOfZal/khRfrZBCOppGoTn6D5ycUm2ddh9WFG7t2b3fFAR/yur8A3yOPpN1AzzdoVY1rYIDi4tTupnqyZ5fEHH1noLRL32i1oXHWrRRz6MR7w+uZrj8I7ESQZUSRNKtJkCTKEREgSYiEfOIkYgTKy0QKxLRATCe9xc6NcnotS2J/7yD9Zm067X9NF3aXNqSB49CpSDEZCsyna3yOD8oV5SZfUY+hnpbu7VhpNhvCAm3UjYAFKknaTj9orjJ88zzdWosjvTcbXR2Rx5OpwRn4gzdfcffu9lcW7MWFtcDw88lR13bR6bgx/vTMGUd4NVE0q/LsFBtnQZ6u/uovzYgfOeaKY94Ek8+Y4sT+UTbXffrlVGo6ejIKL0luKwGC7sHIUN+VRtyPM/CdJ3edmKdTbeXJQkk+z0nIyRyFTGeec4+GZaHZzswatrVuGT+tmowt1Y/gRE3lcdGY8D8ccOM6DLU3D5yrHg44cZti3q07S7tLZFKpXW+Ksxdt1XdTb8RPMhXPGYH2usRSvbmgAFp1GSvTA4lA4J4DpxDDHksxYy4lVaZdXZjTrMPdqKMI/lu9Zm+vaLnsy7Ha1XKX7sq43MHAJ+Ozh8phVoqshR8Mqnl1B8x1m3uzNsl3pAtmJZKlKvbMTz2kuo+YBH0l47I0L2ar+HVVs9cEdCPKejeylMJZWyg5Hh5B9CxP6zzStKpb16lFsLVpVHpOCOG9GKsPqDN+92mpeNaeG2N9FsEA/svxH33RNr2zKSJEmdFTJkSYCIkyIREQPkJMCIUiIgIiJQiJMDzN3j6b7Lqt2gG1Hqe0IOHKoN56nhuLD5Tu+wGj6zQSpe2fhUadalsC3QbFwBxV1UDpxwx4ceoM212k7GWWpVKVW6R2airIAjmmHQkHa5HEgHOMEczOu7b06ljptxVtW2pRoLTRWLF6QJVFZWOd2Mg8fLnM4Hn7XnuGuqxuavjXG8iq+/xMsOYB8hywOAxjpOLQva1P/wCOrUTjnCOyjPwBnzbieeePEmfMwO9tu017vosaxqezuKlIOAw3YKkEjBIIYg8es5+sdqal9XovcJTTbT8MtRDKWyQV3bic4PLy3GY2tMHYytjcdp81YfoZ9fZyW94gjaxz5HlJcDKaKEMTktnkeW9enCbg7sX3WLAcluaij091D+s0hoWoggU6nMEBWxz+fnw+fObw7sqe2yf1uqh9PwoP0km0m2ru97S/Z9Uasowt3TSuD03j3HH8Kn+/Mo7r9RAqUwcIaiGiw6ORxVvjkY+c5vffpniWdC7A962r7GPlTqjH/mqfWYJ2QvDTNMhhwdWTIJ2uDkDn1xLy8XJXoeTPlb1Q6JUX8LqrD4EZn2m1JMiTASZEmRCIiB84iIUiIgIiJRMSJMBMY7yQDo9/n/8APn6MpmTzFe8wj+hr/P8AuVHz3riQeZmnyM+jz5mSKlTgg+oM5gueDeuf8pwZdnJz6nJizKOfp65SoM4PukHqGHEGb77nro1NM94gulzVR8eeEYfZhNB6Y3Mec3D3HV/d1Chn8NShVA/eDqT/AALJPYZ32z072rTry3xlnt6jJ/zE99P4lWef+zLo58Ee9UfhTVcs+7nwA4z07MM7bW3gvbX9OmG9lFfcqKu5gyq3AY54pt/6ZbMpXbdj/FW0p06yMjplRv8AxMucg46c8fKd9Oo0LU6d1Sp16TbkdNwI6eYPrO3lmgiTEBERAREQPkJMSsotERAREQpERATEu9QH+hb3H5aRPw8VMzLZj/b6hv0nUF8rSq/+Ab/5ZB5baUl2lDJAIkREo5+ntjPxm1O5N8Xl6v5ram3x2uR/NNT2Z4zaHcq39oVxnnZP9qlP/WY/Q3eJxNSthVovTPAlSVPVXHFSPgQJyxIbkc8scZ0HQdjdJW1tz4bZpV6jXNFNu3wKdTDinzOcZmQzgaJj2W2xy9npY+GwTnyRExEQEREBERA+cjEmJQiJWQWiIlUiBEBOBry7rS7Xnm1rjB5HKNOfOFrIza3I87esP4GgeSOg+AlDL9B8BKTI5Wn2L1y6pj/Z0Ktds/lpoXbHrwnEmUdhLY1a12g5nStQ255Z8JgP85i8qOTbNxx0PCbP7mGxqVQedjV+1SlNXW/ObL7nG/tU+tjXH8dL/SYvstb4ESBJnQcPSifApZwMLgY5YBwPtObOFpe3wlVTkIWT191iv6TmyBERCJiRJgIiIHziIgVlolZRaJWWgBECIUnwv03Uqq/mpOv1UifeQePDz4QPHnQfAShnKvqHh1KlMjBSo6EeW1iP0nGImRsLuSoh9UfIBAsqxIIyCCyKQf8AFMQ7TWi0L68oIu1KV3Xpoo5KiuwUfTEz3uHo5vrqp+Sz2f4qiH+SY93pac1vq11uHu12FzTP5lfmf8QcfKBidPnNj9zZ/tYf9HXz9Umt1mw+5g/2sv8A0tx/LJ2PQQkyBJmxwtJbNMnGD41xkeR8VxOdOt0TPh1Ael3dgfDxnnZSIREQEmIgIiIHxiIgIkSRAS0qJaUIiIUiIgeWe3NsKWp36DkLysw9A7b8fxYmPkzZ/fJ2XqUbk6kis1vc7fGI4ijXAC8fJWABB88jymsCJkbe7gqfv6g+OAW2QH4moT/kJjHe9qYuNWrKPw2yJag+ZXLP/E7D5TM+4a4peDd0d6+OayVDT5MaQXaGHmNxI9MjzE1N2jreJe3lQ83u7h/q7GVHXAzYncqM6sPS0rn7oJrpZs/uLtWbUK9YD3KVmysfJ6jptH0RvpIrfIkyBJmh1mhghKykk7by659A1RnA+jCdpOs0kYqXg6e2ZHzo0c/fM7ORExEQEREBERA+EREBERKJlpSMwJzLSkZgXiVzJzIrou2Wo2ttY13vUNS2ZfCemoy1UvwCLxHH1yMYz0nl25KF2NIMtMsxpqxBdUydoYgAE4xkzePfrd7bG2o9at3vP7qI36us0O0DsNE1atZXFO6t221aZyPysOqsOqkcCJbX7OvRuKguafhVajeMUyGGKnvgqwJBXjzBnBo0mqOtNAWd2CIo5szHAA+Zma96t2Dd0LIEN/R9lQtXbq9QKGY7uvNR8cwjB1npXux7Nf0dYKKi7bm5Ir3A6rke5TP7q8/UtNKd3gsBf06uoVlpUKANamHDFKtZSNqnAOAOLcee0DrPS9vXSoi1Kbq6OoZHQhkdSMhgRzEivsJMiJodRpBAudRXr7TRqY64a2pKD9Ub6TuZ1FguLy94YLLatnow2uoP8JHynbyRCIkwEREBERA48REomJEQEZiIDMZiIGKdqO2SWVdLQIjV3o+Mhqu1Okwyw2hgp4+6ftMC1XvL1Uu6UqNtbhAGGVaqSDy95iAc4PJZtzVdItrtBSuqKVkB3KHHvI35lYcVPqCJiVz3U6a5JV7qmOGFSqpVefLcp8+ueUzZRq3tLdi6AuLi/N3UFOnsp1EWkKZJy4VEOAPhx93jmYfVKuf9nSK45hWZx9+InpHRe7rS7RvEFDx6mQQ9yRV2kdQuAoPrjMyxEVRhQFHkoAH2iQebe7jSqjarZP4L1Ep1t9Qmm5p0iqkqzNjAwcEeoE4XeHYvQ1S9BWoFe4qVUaopG9WO4lT1XLYB8sT1FKVKauNrKrDyYBh9DLgeOQZm/YjtZd6dk06q1KG0s9rVY+Hz5o37DZPT5g9PQdfRbSopR7W3dGGCrUaZB+0112h7nqNVjUsawtsnLUaitUpA/wDCwO5R6HPyko73Q+8myujscPbuNoLON1EsQThX4HoeajlMwsrynWQVKTq6NyZTwmmrfug1BXB9rtVUH8QWq7Y4fslQDyHDM2xoOk+yURTNVqrkhncqEBYKF4KPwjAHDJPrEz2FGqfb66Y4exWr5z18SuMYnbTiraIKr3AB8R6dOkx3HGxGdlAHIcXb6zkyiYiJVJMiTIhERA48ZgQJUJEmIARAkmFRERAkSZWTAtmTKywhSTIkwEmRJgIiICIiAkyJMBESZEIiIH//2Q==",
+    "movies" : [
+        {
+            "id": 1,
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BODI4NDY2NDM5M15BMl5BanBnXkFtZTgwNzEwOTMxMDE@._V1_.jpg",
+            "name" : "Zoolander",
+            "director" : "Ben Stiller",
+            "year": "2001",
+            "resume": "Derek Zoolander has been the most sought-after male model for the past three years. When his crown is snatched from him, he decides to retire, until a designer asks him to model for him, simultaneously involving him in a murder plot.",
+            "trillerURL" : "https://www.youtube.com/embed/SrvRGQtfM58"
+        },
+        {
+            "id": 2,
+            "imgURL": "https://es.web.img3.acsta.net/medias/nmedia/18/89/75/73/20065339.jpg",
+            "name" : "Kung Fu Sion",
+            "director" : "Stephen Chow",
+            "year": "2004",
+            "resume": "Set in pre-revolutionary China, Sing, a petty thief, aspires to become one of the ruthless and sophisticated members of the Axe Gang whose illegal activities cast a shadow over the city.",
+            "trillerURL" : "https://www.youtube.com/embed/zhFDbPDAtm8"
+        },
+        {
+            "id": 3,
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MjI1OV5BMl5BanBnXkFtZTcwNzcwODAzMw@@._V1_FMjpg_UX1000_.jpg",
+            "name" : "Mean Girls",
+            "director" : "Mark Waters",
+            "year": "2004",
+            "resume": "After spending her childhood in Africa, Cady must cope with life in a typical American high school and befriends three of the most popular and manipulative girls in the school.",
+            "trillerURL" : "https://www.youtube.com/embed/4EY2Q_07iUw"
+        },
+        {
+            "id": 4,
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMTk0MTQ3NDQ4Ml5BMl5BanBnXkFtZTcwOTQ3OTQzMw@@._V1_FMjpg_UX1000_.jpg",
+            "name" : "Borat",
+            "director" : "Larry Charles",
+            "year": "2006",
+            "resume": "Kazakhstan reporter Borat Sagdiyev is sent to the United States by his country's government to report on what, for Borat, is the most wonderful nation on Earth. The government hopes that the documentary will help to improve some of Kazakhstan's problems.",
+            "trillerURL" : "https://www.youtube.com/embed/feU2-Br4cMs"
+        }
+        ]    
+        },
+    {
+    "id": 3,
+    "genre": "Action",
+    "imageURL" : "https://hips.hearstapps.com/hmg-prod/images/keanu-reeves-john-wick-4-1668099111-641dd349d68f7.jpeg?crop=0.5368055555555556xw:1xh;center,top&resize=1200:*",
+    "movies" : [
+        {
+            "id": 1,
+            "imgURL": "https://cdn.colombia.com/cine/2023/9/los-indestructibles-4-42307.jpg",
+            "name" : "Mercenaries 4",
+            "director" : "Scott Waugh",
+            "year": "2023",
+            "resume": "Mercenary Barney Ross and his team face a new challenge in this action movie.",
+            "trillerURL" : "https://www.youtube.com/embed/-sN-WiE0faU"
+        },
+        {
+            "id": 2,
+            "imgURL": "https://encadenados.org/wp-content/uploads/2023/09/the-equalizer-3-00.jpg",
+            "name" : "Equalizer 3",
+            "director" : "Antoine Fuqua",
+            "year": "2023",
+            "resume": "Former agent Robert McCall finds himself in southern Italy and soon discovers that his new friends are under the control of local crime bosses. When events turn deadly, McCall becomes their protector.",
+            "trillerURL" : "https://www.youtube.com/embed/18_Ma-XvTZg"
+        },
+        {
+            "id": 3,
+            "imgURL": "https://www.ecartelera.com/carteles/15100/15134/001_m.jpg",
+            "name" : "Mission Impossible 7: Deadly Sentence",
+            "director" : "Christopher McQuarrie",
+            "year": "2023",
+            "resume": "Ethan Hunt (Tom Cruise) and his IMF team embark on their most dangerous mission to date: to locate, before it falls into the wrong hands, a terrifying new weapon that threatens all of humanity. Against this backdrop, and with dark forces from Ethan's past lurking, a deadly race around the world begins in which the control of the future and the fate of the planet is at stake. Faced with a mysterious and all-powerful enemy, Ethan is forced to consider that nothing can come before his mission, not even the lives of those who matter most to him.",
+            "trillerURL" : "https://www.youtube.com/embed/7y3_5rLe4Y4"
+        },
+        {
+            "id": 4,
+            "imgURL": "https://www.mubis.es/media/users/3724/314823/indiana-jones-y-el-dial-del-destino-tendra-una-duracion-de-2-horas-y-22-minutos-original.jpg",
+            "name" : "Indiana Jones and the Dial of Destiny",
+            "director" : "James Mangold",
+            "year": "2023",
+            "resume": "Archaeologist Indiana Jones must embark on another adventure against time to try to recover a legendary dial that could change the course of history. Accompanied by his goddaughter, Jones soon finds himself confronting Jürgen Voller, a former Nazi working for NASA.",
+            "trillerURL" : "https://www.youtube.com/embed/ioseqo1_vi4"
+        }
+        ]
+    },
+    {
+    "id": 4,
+    "genre": "Science Fiction",
+    "imageURL" : "https://mx.web.img2.acsta.net/pictures/19/01/28/01/13/3672733.png",
+    "movies" : [
+        {   
+            "id": 1,
+            "imgURL": "https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster_mobile/7/6/3/2/42367-1-esl-CO/087ade070d9c-480x670.jpg",
+            "name" : "Dune",
+            "director" : "Denis Villeneuve",
+            "year": "2021",
+            "resume": "In the year 10191 the desert planet Arrakis, fief of the Harkonnen family for generations, falls into the hands of the House of Atreides by order of the Emperor. With this he cedes to them the exploitation of the reserves of spice, the most valuable raw material in the galaxy, necessary for interstellar travel and also a drug capable of amplifying consciousness and extending life.",
+            "trillerURL" : "https://www.youtube.com/embed/cShyCSgba-o"
+        },
+        {   
+            "id": 2,
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BNDQwYjJjODMtOWNmNC00NDJjLThiNDgtNzVkOTM1MjY5NDQ5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+            "name" : "Midnight Sky",
+            "director" : "George Clooney",
+            "year": "2020",
+            "resume": "Augustine (George Clooney) is a lone scientist in the Arctic, trying to contact a spacecraft attempting to return to Earth. Augustine wants to stop Sully (Felicity Jones) and his fellow astronauts from returning home, where a mysterious global catastrophe has occurred.",
+            "trillerURL" : "https://www.youtube.com/embed/DXUUqr3AFKs"
+        },
+        {   
+            "id": 3,
+            "imgURL": "https://es.web.img3.acsta.net/pictures/16/10/18/16/59/275907.jpg",
+            "name" : "The Arrival",
+            "director" : "Denis Villeneuve",
+            "year": "2016",
+            "resume": "When extraterrestrial spacecraft begin to arrive on Earth, the military high command enlists the help of an expert linguist (Amy Adams) to try to find out if the aliens come in peace or pose a threat. Little by little, the woman will try to learn to communicate with the strange invaders, who have a language of their own, to find out the true and mysterious reason for the extraterrestrial visitation.",
+            "trillerURL" : "https://www.youtube.com/embed/uWs5lsWXLbo"
+        },
+        {   
+            "id": 4,
+            "imgURL" : "https://mx.web.img2.acsta.net/pictures/19/01/28/01/13/3672733.png",
+            "name" : "Interestellar",
+            "director" : "Christopher Nolan",
+            "year": "2014",
+            "resume": "In realizing that life on Earth is coming to an end, a group of explorers led by pilot Cooper (McConaughey) and scientist Amelia (Hathaway) embark on what may be the most important mission in human history: to travel beyond our galaxy to discover a planet in another galaxy that can guarantee the future of the human race.",
+            "trillerURL" : "https://www.youtube.com/embed/d7AkFA4XjiM"
+        }
+        ]
+    },
+    {
+    "id": 5,
+    "genre": "Drama",
+    "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC_1DPW401AEon_e523RV7aYmLxv24ltNSqG3umrMf6W9b81OFvSvBjrXAeoQ3M1CiNwk&usqp=CAU",
+    "movies" : [
+        {   
+            "id": 1,
+            "imgURL": "https://pics.filmaffinity.com/killers_of_the_flower_moon-211527208-msmall.jpg",
+            "name" : "The Moon Killers",
+            "director" : "Martin Scorsese",
+            "year": "2023",
+            "resume": "Set in 1920s Oklahoma, it chronicles the serial murders of members of the oil-rich Osage Indian Nation; a series of brutal crimes that would later become known as the 'Reign of Terror.'",
+            "trillerURL" : "https://www.youtube.com/embed/z2lGEZSu5v4"
+        },
+        {   
+            "id": 2,
+            "imgURL": "https://variety.com/wp-content/uploads/2023/09/71fLv5qxwIL._SL1500_.jpg?w=866",
+            "name" : "Sound of Freedom",
+            "director" : "Alejandro Monteverde",
+            "year": "2023",
+            "resume": "It tells the story of Tim Ballard, a former U.S. Homeland Security agent who left his job to dedicate his life (immersing himself in the underworld of child sex trafficking throughout Latin America) to trying to save the lives of hundreds of children.",
+            "trillerURL" : "https://www.youtube.com/embed/tWW456S66AI"
+        },
+        {   
+            "id": 3,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/My_Fault_%28film%29_poster.jpg/220px-My_Fault_%28film%29_poster.jpg",
+            "name" : "My fault",
+            "director" : "Denis Villeneuve",
+            "year": "2023",
+            "resume": "It tells the story of Noah, who must leave her town, boyfriend and friends to move into the mansion of William Leister, the wealthy new husband of her mother Rafaela. Despite this, she resists living surrounded by luxury. There she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very first moment, but they begin a secret romance that puts their lives and those of others to the test.",
+            "trillerURL" : "https://www.youtube.com/embed/PaB7cGBuCP0"
+        },
+        {   
+            "id": 4,
+            "imgURL" : "https://m.media-amazon.com/images/M/MV5BNzU2ZGE0NWYtZWYwYy00OTBkLWI5MmYtNzUxZDQ1ZTgzMzVkXkEyXkFqcGdeQXVyNjg1NzEwMDE@._V1_.jpg",
+            "name" : "The Creator",
+            "director" : "Gareth Edwards (V)",
+            "year": "2023",
+            "resume": "In the midst of a future war between the human race and the forces of artificial intelligence, Joshua, a tough ex-Special Forces agent mourning the disappearance of his wife is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war... and humanity itself.",
+            "trillerURL" : "https://www.youtube.com/embed/Cws_5o2hN-Y"
+        }
+        ]
+    }
+]
