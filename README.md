@@ -58,3 +58,18 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
 ## Tecnologias
+
+Se emplearon las siguientes técnologias:
+
+📱ReactJS + Vite
+
+📱Context
+
+📱Hooks: useState-useNavigation-useLocation
+
+📱TailwindCSS
+
+📱 JavaScrip-HTML-CSS
+
+
+
