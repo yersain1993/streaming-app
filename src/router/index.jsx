@@ -1,10 +1,10 @@
 import { createBrowserRouter } from 'react-router-dom';
 import Home from '../views/Home';
-import ContentCategory from '../views/contentCategory';
-import ContentDetails from '../views/contentDetails';
-import Layout from '../components/layout';
+import ContentCategory from '../views/ContentCategory';
+import ContentDetails from '../views/ContentDetails';
+import Layout from '../components/Layout';
 import ProtectedRoute from '../components/ProtectedRoute';
-import Login from '../components/login';
+import Login from '../components/Login';
 
 export const router = createBrowserRouter([
   {
